@@ -1,3 +1,5 @@
+![Screenshoot Halaman](./public/assets/demo/img_2bfd6934.png)
+
 # GIS Bengkel
 
 A Geographic Information System (GIS) application for workshop/motorcycle repair shop management.
